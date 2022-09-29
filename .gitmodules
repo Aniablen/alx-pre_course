@@ -1,0 +1,3 @@
+[submodule "0x01-git/0x01-git/up_to_date"]
+	path = 0x01-git/0x01-git/up_to_date
+	url = https://github.com/Aniablen/alx-pre_course.git
